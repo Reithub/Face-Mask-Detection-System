@@ -1,1 +1,2 @@
 model.h5 file cannot be uploaded in github since it is of 256 MB size
+But is attached in the zip file uploaded on hackeearth
